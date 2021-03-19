@@ -1,0 +1,1 @@
+docker build -t odoo:10.0 .
